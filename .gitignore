@@ -1,6 +1,6 @@
 *.pyc
-__pycache
-myvenv
+__pycache__
+mydjangoblog
 db.sqlite3
 /static
 .DS_Store
